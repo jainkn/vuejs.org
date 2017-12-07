@@ -224,7 +224,8 @@ order: 803
     'Thessaloniki, Greece': [40.640063, 22.944419],
     'Tokyo, Japan': [35.689487, 139.691706],
     'Toronto, Canada': [43.653226, -79.383184],
-    'Wrocław, Poland': [51.107885, 17.038538]
+    'Wrocław, Poland': [51.107885, 17.038538],
+    'Bangalore, India': [12.972442, 77.580643],
   }
   var languageNameFor = {
     en: 'English',
@@ -581,6 +582,24 @@ order: 803
       codepen: 'sdras',
       reposPersonal: [
         'intro-to-vue', 'vue-vscode-snippets', 'vue-sublime-snippets', 'nuxt-type', 'animating-vue-workshop', 'cda-locale', 'vue-weather-notifier'
+      ]
+    },
+    {
+      name: 'Jain Kurian',
+      city: 'Bangalore, India',
+      languages: ['en'],
+      github: 'jainkn',
+      work: {
+        role: 'Project Manager'
+        org: 'technorishi',
+        orgUrl: 'http://www.technorishi.co.in/'
+      },
+      
+      reposOfficial: [
+        'vuejs.org',
+      ],
+      reposPersonal: [
+        ''
       ]
     },
     {
